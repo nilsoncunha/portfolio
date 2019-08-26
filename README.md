@@ -1,1 +1,1 @@
-Projetos pessoais para estudos e treinamentos
+Nesse repositório contém arquivos para treinamento referente a DataScience.
