@@ -1,10 +1,24 @@
-### Repositório para treinamento de Data Science
+[![author](https://img.shields.io/badge/author-nilsoncunha-red.svg)](https://www.linkedin.com/in/nilsoncunhan) 
+[![](https://img.shields.io/badge/python-3.7+-blue.svg)](https://www.python.org/downloads/release/python-365/) 
 
-Nesse repositório contém arquivos para treinamento e estudos sobre Data Science. Nele você pode acompanhar a minha evolução, conhecimentos adquiridos e os trabalhos que venho fazendo no decorrer dos dias.
+<p align="center">
+  <img src="/img/github_cover.png" >
+</p>
 
-**ENEM** -> Foi o desafio de Data Science que realizei para a Codenation. Tinha que prever a nota da prova de matemática de quem participou do ENEM 2016, no qual cheguei no resultado de 93,6%.<br>
-**Pandas / Gráficos e Visualizações** -> Armazena alguns notebooks referente as bibliotecas Pandas, Matplotlib e Seaborn que utilizo para tirar dúvidas quando necessário.
+Aqui você encontra os *notebooks* dos meus projetos na área de Data Science, Machine Learning e Deep Learning.
 
-Caso tenha alguma sugestão em algum trabalho/modelo/estudo ou queira realizar algum contato, envie um e-mail para **nilson.cunhan@gmail.com**
+## Projetos:
+Lista de projetos em Jupyter Notebook:
 
-Até logo!
+* **Detecção de Fraudes em Cartões de Crédito:** https://bit.ly/2Qr7Nai
+
+---
+
+### Sobre mim:
+
+Sou Piloto Militar da Força Aérea Brasileira e Engenheiro de Missão de Satélite no Centro de Operações Espaciais (COPE), em Brasília-DF. Autor do *blog* [sigmoidal.ai](http://sigmoidal.ai).
+
+* Graduação em Ciências Aeronáuticas pela AFA.
+* Mestrado em Ciências e Tecnologias Espaciais pelo ITA.
+* MBA em Gestão de Projetos e Processos pela UNIFA.
+* Curso de Operações Espaciais pela Força Aérea do Canadá.
