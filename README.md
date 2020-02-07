@@ -19,6 +19,5 @@ Lista de projetos em Jupyter Notebook:
 
 
 * Graduação Tecnológica em Redes de computadores pela Faculdades Promove.
-* Graduação em Sistemas de informação pela Faculdades Promove*.
+* Graduação em Sistemas de informação pela Faculdades Promove *trancado*.
 * Pós-Graduando em Ciência de Dados e Big Data pela PUC Minas.
-* ##### *incompleta*
