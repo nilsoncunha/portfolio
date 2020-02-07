@@ -16,9 +16,9 @@ Lista de projetos em Jupyter Notebook:
 
 ### Sobre mim:
 
-Sou Piloto Militar da Força Aérea Brasileira e Engenheiro de Missão de Satélite no Centro de Operações Espaciais (COPE), em Brasília-DF. Autor do *blog* [sigmoidal.ai](http://sigmoidal.ai).
 
-* Graduação em Ciências Aeronáuticas pela AFA.
-* Mestrado em Ciências e Tecnologias Espaciais pelo ITA.
-* MBA em Gestão de Projetos e Processos pela UNIFA.
-* Curso de Operações Espaciais pela Força Aérea do Canadá.
+
+* Graduação Tecnológica em Redes de computadores pela Faculdades Promove.
+* Graduação em Sistemas de informação pela Faculdades Promove*.
+* Pós-Graduando em Ciência de Dados e Big Data pela PUC Minas.
+* ##### *incompleta
