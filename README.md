@@ -10,7 +10,7 @@
 
 Aqui você encontra os *notebooks* dos meus projetos na área de Data Science e Machine Learning. Se quiser saber de toda a análise feita é só visitar o meu [portfólio web](https://nilsoncunha.github.io/portfolioweb/), fique a vontade.
 
-### Projetos:
+### Projetos
 Lista de projetos em Jupyter Notebook:
 
 * **Prevendo notas do ENEM:** [link aqui]
