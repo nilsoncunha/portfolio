@@ -28,4 +28,3 @@ Uma pessoa que gostou de trabalhar com dados e viu que pode ser gerado muito val
 ### Contatos:
 * e-mail - nilson.cunhan@gmail.com
 * LinkedIn - https://www.linkedin.com/in/nilsoncunhan/
-* Portfólio Web - https://nilsoncunha.github.io/portfolioweb/
