@@ -1,5 +1,6 @@
-[![author](https://img.shields.io/badge/author-nilsoncunha-red.svg)](https://www.linkedin.com/in/nilsoncunhan) 
-[![](https://img.shields.io/badge/python-3.7+-blue.svg)](https://www.python.org/downloads/release/python-365/) 
+[![author](https://img.shields.io/badge/Author-Nilson_Cunha-red.svg)](https://nilsoncunha.github.io/portfolioweb/) 
+[![](https://img.shields.io/badge/Python-3.7+-blue.svg)](https://www.python.org/downloads/release/python-365/) 
+[![linkedin](https://img.shields.io/badge/LinkedIn-Nilson_Cunha-gren.svg)](https://www.linkedin.com/in/nilsoncunhan)
 
 <p align="center">
   <img src="/img/banner_git.jpg" >
