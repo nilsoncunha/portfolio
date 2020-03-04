@@ -3,7 +3,7 @@
 [![linkedin](https://img.shields.io/badge/LinkedIn-Nilson_Cunha-gren.svg)](https://www.linkedin.com/in/nilsoncunhan)
 
 <p align="center">
-  <img src="/img/banner_git.jpg" >
+  <img src="https://dl.dropbox.com/s/c12px0x9rz3l060/home_lg.jpg?dl=0" >
 </p>
 
 ## Seja bem-vindo ao meu github
