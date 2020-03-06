@@ -8,7 +8,7 @@
 
 ## Seja bem-vindo ao meu github
 
-Aqui você encontra os *notebooks* dos meus projetos na área de Data Science e Machine Learning. Se quiser saber de toda a análise feita é só visitar o meu [portfólio web](https://nilsoncunha.github.io/portfolioweb/), fique a vontade.
+Aqui você encontra os *notebooks* dos meus projetos na área de Data Science e Machine Learning. Se quiser saber de toda a análise feita é só visitar o meu [portfólio web](https://nilsoncunha.github.io/portfolioweb/), fique a vontade :wink:.
 
 ### Projetos
 Lista de projetos em Jupyter Notebook:
