@@ -1,6 +1,6 @@
-[![author](https://img.shields.io/badge/Author-Nilson_Cunha-red.svg)](https://nilsoncunha.github.io/portfolioweb/) 
+[![](https://img.shields.io/badge/Author-Nilson_Cunha-red.svg)](https://nilsoncunha.github.io/portfolioweb/) 
 [![](https://img.shields.io/badge/Python-3.7+-blue.svg)](https://www.python.org/downloads/) 
-[![linkedin](https://img.shields.io/badge/LinkedIn-Nilson_Cunha-gren.svg)](https://www.linkedin.com/in/nilsoncunhan)
+[![](https://img.shields.io/badge/LinkedIn-Nilson_Cunha-gren.svg)](https://www.linkedin.com/in/nilsoncunhan)
 
 <p align="center">
   <img src="https://dl.dropbox.com/s/c12px0x9rz3l060/home_lg.jpg?dl=0" >
