@@ -12,7 +12,7 @@ Aqui você encontra os *notebooks* dos meus projetos na área de Data Science e 
 ### Projetos
 Lista de projetos em Jupyter Notebook:
 
-* **Prevendo notas do ENEM:** [link aqui]
+* **Prevendo notas do ENEM:** http://bit.ly/38EoKFw
 
 ---
 
