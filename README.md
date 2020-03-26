@@ -12,7 +12,8 @@ Aqui você encontra os *notebooks* dos meus projetos na área de Data Science e 
 ### Projetos
 Lista de projetos em Jupyter Notebook:
 
-* **Prevendo notas do ENEM:** [clique aqui](https://github.com/nilsoncunha/portfolio/blob/master/Prevendo_nota_de_matematica_do_ENEM_2016.ipynb)
+* **Prevendo notas do ENEM:** [clique aqui](https://colab.research.google.com/drive/1beela9VdVWEcLPEDXUoo7LmFzrmpYxdz)
+  * **Deploy no Heroku:** [clique aqui](https://portfolio-enem.herokuapp.com/)
 
 ---
 
@@ -29,3 +30,4 @@ Uma pessoa que gostou de trabalhar com dados e viu que pode ser gerado muito val
 ### Contatos:
 * e-mail - nilson.cunhan@gmail.com
 * LinkedIn - https://www.linkedin.com/in/nilsoncunhan/
+* Portfólio web - https://nilsoncunha.github.io/portfolioweb/
