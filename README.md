@@ -12,7 +12,7 @@ Aqui você encontra os *notebooks* dos meus projetos na área de Data Science e 
 ### Projetos
 Lista de projetos em Jupyter Notebook:
 
-* **Prevendo notas do ENEM:** http://bit.ly/38EoKFw
+* **Prevendo notas do ENEM:** [clique aqui](https://github.com/nilsoncunha/portfolio/blob/master/Prevendo_nota_de_matematica_do_ENEM_2016.ipynb)
 
 ---
 
