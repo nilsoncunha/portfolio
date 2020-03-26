@@ -12,7 +12,7 @@ Aqui você encontra os *links para os notebooks* ou o *próprio notebook* dos me
 ### Projetos
 Lista de projetos em Jupyter Notebook:
 
-* **Prevendo notas do ENEM:** [clique aqui](https://colab.research.google.com/drive/1beela9VdVWEcLPEDXUoo7LmFzrmpYxdz?target=_blank)
+* **Prevendo notas do ENEM:** [clique aqui](https://colab.research.google.com/drive/1beela9VdVWEcLPEDXUoo7LmFzrmpYxdz)
   * **Deploy no Heroku:** <a href="https://portfolio-enem.herokuapp.com/" target="_blank">clique aqui</a>
 
 ---
