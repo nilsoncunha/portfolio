@@ -14,6 +14,8 @@ Lista de projetos em Jupyter Notebook:
 
 * **Prevendo notas do ENEM:** [clique aqui](https://colab.research.google.com/drive/1beela9VdVWEcLPEDXUoo7LmFzrmpYxdz)
   * **Deploy no Heroku:** <a href="https://portfolio-enem.herokuapp.com/" target="_blank">clique aqui</a>
+  * **Utilizando Streamlit**: [clique aqui](https://portfolio-enem-streamlit.herokuapp.com/)
+    * Essa é uma biblioteca que facilita a apresentação da nossa análise de uma forma limpa e bonita.
 
 ---
 
