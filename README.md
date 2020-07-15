@@ -2,7 +2,7 @@
 [![](https://img.shields.io/badge/Linkedin-Nilson_Cunha-blue.svg)](https://www.linkedin.com/in/nilsoncunhan)
 
 <p align="center">
-  <img src="https://dl.dropbox.com/s/c12px0x9rz3l060/home_lg.jpg?dl=0" >
+  <img src="https://www.dropbox.com/s/c12px0x9rz3l060/home_lg.jpg?raw=1" >
 </p>
 
 ## Seja bem-vindo ao meu github
@@ -16,6 +16,7 @@ Lista de projetos em Jupyter Notebook:
   * **Deploy no Heroku:** <a href="https://portfolio-enem.herokuapp.com/" target="_blank">clique aqui</a>
   * **Utilizando Streamlit**: [clique aqui](https://portfolio-enem-streamlit.herokuapp.com/)
     * Essa é uma biblioteca que facilita a apresentação da nossa análise de uma forma limpa e bonita.
+* **Desafio Titanic - Kaggle**: [clique aqui](https://colab.research.google.com/drive/10XbF-MI1mRXpQHTsPL5qfjYkeAkYZQVa?usp=sharing)
 
 ---
 
