@@ -1,16 +1,8 @@
 [![](https://img.shields.io/badge/Author-Nilson_Cunha-red.svg)](https://nilsoncunha.github.io/portfolioweb/) 
 [![](https://img.shields.io/badge/Linkedin-Nilson_Cunha-blue.svg)](https://www.linkedin.com/in/nilsoncunhan)
 
-<p align="center">
-  <img src="https://www.dropbox.com/s/c12px0x9rz3l060/home_lg.jpg?raw=1" >
-</p>
-
-## Seja bem-vindo ao meu github
-
-Aqui você encontra os *links para os notebooks* ou o *próprio notebook* dos meus projetos na área de Data Science e Machine Learning. Se quiser saber de toda a análise feita é só visitar o meu [portfólio web](https://nilsoncunha.github.io/portfolioweb/), fique a vontade :wink:.
-
 ### Projetos
-Lista de projetos em Jupyter Notebook:
+Aqui você encontra os *links para os notebooks* ou o *próprio notebook* dos meus projetos na área de Data Science e Machine Learning. Se quiser saber de toda a análise feita é só visitar o meu [portfólio web](https://nilsoncunha.github.io/portfolioweb/), fique a vontade :wink:.
 
 * **Prevendo notas do ENEM:** [clique aqui](https://colab.research.google.com/drive/1beela9VdVWEcLPEDXUoo7LmFzrmpYxdz)
   * **Deploy no Heroku:** <a href="https://portfolio-enem.herokuapp.com/" target="_blank">clique aqui</a>
